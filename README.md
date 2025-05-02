@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sami! <br/><a href="https://github.com/sobersami">Programmer</a>, <a href="https://www.linkedin.com/in/shahriar-rahman-2b417a203/">Cybersecurity Professional</a>
+<h1>Hi, I'm Sami! <br/><b >Proficient IT and network security professional with a strong foundation in technical and management skills, constantly evolving through self-study and active community engagement. Eager to bring my expertise and proactive approach to deliver impactful solutions in a forward-thinking organization.</b>
 
 <h2>Projects:</h2>
 
