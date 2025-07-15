@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sami! </h1><br/><b >Proficient IT and network security professional with a strong foundation in technical and management skills, constantly evolving through self-study and active community engagement. Eager to bring my expertise and proactive approach to deliver impactful solutions in a forward-thinking organization.</b>
+<h1>Hi, I'm Sami! </h1><br/><b >I enjoy Networking, Cloud security and Managing Stuff. Besides this, I prefer Philosophies, Travelling, Shooting videos </b>
 
 <h2>Projects:</h2>
 
