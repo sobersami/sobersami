@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sami! </h1><br/><b >I enjoy Networking, Cloud security and Managing Stuff. Besides this, I prefer Philosophies, Travelling, Shooting videos </b>
+<h1>Hi, I'm Sami! </h1><br/><b >I enjoy Networking, Cloud security and Managing Stuff.  Besides this, I prefer Philosophies, Travelling, and Serving Nature  </b>
 
 <h2>Projects:</h2>
 
