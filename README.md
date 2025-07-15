@@ -5,8 +5,8 @@
 
 
 - <b>PowerShell</b>
-   - [Home Lab Active Directory (Oracle VirtualBox)](https://github.com/sobersami/ActiveDirectoryLab)
-   - [Azure Honeypot Project (SIEM with Microsoft Sentinel)](https://github.com/sobersami/Azure-honeypot-lab)
+   - [Active Directory & Windows Server Infrastructure Lab](https://github.com/sobersami/ActiveDirectoryLab)
+   - [Geolocation-Based Threat Analysis and Visualization in Azure Sentinel (SIEM)](https://github.com/sobersami/Azure-honeypot-lab)
    
 
 <h2> 🤳 Connect with me:</h2>
