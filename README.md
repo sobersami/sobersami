@@ -1,12 +1,13 @@
 
-<h1>Hi, I'm Sami! </h1><br/><b >I enjoy Networking, Cloud security and Managing Stuff.  Besides this, I prefer Philosophies, Travelling, and Serving Nature  </b>
+<h1>Hi, I'm Sami! </h1><br/><b >I enjoy Networking, Cloud security and Managing Stuff. Besides this, I prefer Philosophies, Travelling, and Serving Nature. </b>
 
 <h2>Projects:</h2>
 
 
-- <b>PowerShell</b>
+- <b>PowerShell & Python </b>
    - [Active Directory & Windows Server Infrastructure Lab](https://github.com/sobersami/ActiveDirectoryLab)
    - [Geolocation-Based Threat Analysis and Visualization in Azure Sentinel (SIEM)](https://github.com/sobersami/Azure-honeypot-lab)
+   - [Python File Integrity Monitor](https://github.com/sobersami/Python-FIM)
    
 
 <h2> 🤳 Connect with me:</h2>
