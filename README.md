@@ -8,6 +8,9 @@
    - [Active Directory & Windows Server Infrastructure Lab](https://github.com/sobersami/ActiveDirectoryLab)
    - [Geolocation-Based Threat Analysis and Visualization in Azure Sentinel (SIEM)](https://github.com/sobersami/Azure-honeypot-lab)
    - [Python File Integrity Monitor](https://github.com/sobersami/Python-FIM)
+
+- <b>CVE</b>
+
    
 
 <h2> 🤳 Connect with me:</h2>
