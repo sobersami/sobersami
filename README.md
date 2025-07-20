@@ -10,7 +10,7 @@
    - [Python File Integrity Monitor](https://github.com/sobersami/Python-FIM)
 
 - <b>CVE</b>
-   - [Vulnerability-Management-Implementation-using-Tenable]()
+   - [Vulnerability-Management-Implementation-using-Tenable](https://github.com/sobersami/Vulnerability-Management-Implementation-using-Tenable)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/shahriar-rahman-2b417a203/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
