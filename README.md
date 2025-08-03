@@ -1,14 +1,9 @@
 # 👨‍💻 Shahriar Rahman Sami
 
-## 🛡️ SOC Analyst | 🔍 Vulnerability Management | ☁️ Cloud Security | 🏡 Remote-First Professional
+##  ☁️ Cloud Engineer 🛡️ SOC Analyst  🏡 Remote-First Professional
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriar-rahman-2b417a203)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriarsami.srs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobersami)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sobersami.github.io)
-[![Open to Work](https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=buymeacoffee&logoColor=white)]()
+
 
 </div>
 
@@ -81,9 +76,11 @@ Compliance:  ISO 27001, NIST, STIG
 
 ## 🤝 Let's Connect!
 
-- 💬 DM me on [LinkedIn](https://linkedin.com/in/shahriar-rahman-2b417a203)
-- 📧 Reach me at [shahriarsami.srs@gmail.com](mailto:shahriarsami.srs@gmail.com)
-- 🌐 Browse my [GitHub Projects](https://github.com/sobersami)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriar-rahman-2b417a203)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriarsami.srs@gmail.com)
+
 
 ---
 
