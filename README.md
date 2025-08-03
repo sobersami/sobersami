@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/Azure%20AI%20Essentials-0078D4?style=flat-square&logo=azure-devops&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/learning/certificates/53e338b01d6885f70f827b48f42cf9fac91b8a84658bf4ea16479de8e483af9a?trk=share_certificate">
-  <img src="https://img.shields.io/badge/Microsoft%20System%20Administration-0078D4?style=flat-square&logo=windows&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/Microsoft%20System%20Administration-0078D4?style=flat-square&logo=windows&logoColor=white" /> </a>
 <a href="https://www.credly.com/badges/942cc594-2d2a-43e6-ba04-0e47aba7f2c3/public_url">
   <img src="https://img.shields.io/badge/Network%20Technician%20Career%20Path-0078D4?style=flat-square&logo=networkx&logoColor=white" />
 </a>
