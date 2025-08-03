@@ -4,12 +4,12 @@
 <h2>Projects:</h2>
 
 
-- <b>PowerShell & Python </b>
+- <b>Networking & SOC </b>
    - [Active Directory & Windows Server Infrastructure Lab](https://github.com/sobersami/ActiveDirectoryLab)
    - [Geolocation-Based Threat Analysis and Visualization in Azure Sentinel (SIEM)](https://github.com/sobersami/Azure-honeypot-lab)
-   - [Python File Integrity Monitor](https://github.com/sobersami/Python-FIM)
+   - [File Integrity Monitor by Python](https://github.com/sobersami/Python-FIM)
 
-- <b>CVE</b>
+- <b>CVM</b>
    - [Vulnerability-Management-Implementation-using-Tenable](https://github.com/sobersami/Vulnerability-Management-Implementation-using-Tenable)
      
  <h2>📜 Certifications:</h2>
