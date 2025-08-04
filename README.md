@@ -5,7 +5,7 @@
 
 Driving toward becoming a **Chief Information Security Officer (CISO)** in the future. Currently studying **Engineering Management** to develop leadership, strategic thinking, and project oversight skills for high-impact roles in cybersecurity.
 
-Actively learning **DevSecOps tools** like **Azure**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the intersection of **AI and cybersecurity** to build intelligent, adaptive security systems.
+Actively learning **DevSecOps tools** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the intersection of **AI and cybersecurity** to build intelligent, adaptive security systems.
 
 
 
