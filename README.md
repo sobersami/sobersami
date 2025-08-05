@@ -14,15 +14,14 @@ Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **T
 ## 🛠️ My Security & DevSecOps Stack
 
 ```yaml
-SIEM:        Azure Sentinel, Wazuh, Splunk
-Vuln Mgmt:   Tenable, Nessus, CIS Benchmarks
-OSINT:       VirusTotal, Shodan, URLScan.io, Hybrid Analysis
-DevSecOps:   Learning Azure, AWS, Terraform, Kubernetes, Docker, Jenkins
-AI + Sec:    Exploring AI for threat modeling, detection, and automation
-Scripting:   Python, PowerShell, Bash, SQL, KQL
 Networking:  TCP/IP, ACL, OSPF, BGP, IPsec
 OS:          Windows Server, Linux (Ubuntu, Kali)
 Directory:   Active Directory, LDAP
+Cloud:   Learning Azure, AWS, Terraform, Kubernetes, Docker, Jenkins
+Scripting:   Python, PowerShell, Bash, SQL, KQL
+SIEM:        Azure Sentinel, Wazuh, Splunk
+Vuln Mgmt:   Tenable, Nessus, CIS Benchmarks
+OSINT:       VirusTotal, Shodan, URLScan.io, Hybrid Analysis
 Compliance:  ISO 27001, NIST, STIG
 ```
 
