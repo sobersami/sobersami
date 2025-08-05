@@ -11,7 +11,7 @@ Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **T
 
 ---
 
-## 🛠️ My Security & DevSecOps Stack
+## 🛠️ My Cloud & DevSecOps Stack
 
 ```yaml
 Networking:  TCP/IP, ACL, OSPF, BGP, IPsec
