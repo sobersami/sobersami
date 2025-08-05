@@ -5,7 +5,7 @@
 
 Driving toward becoming a **Chief Information Security Officer (CISO)** in the future. Currently studying **Engineering Management** to develop leadership, strategic thinking, and project oversight skills for high-impact roles in cybersecurity.
 
-Actively learning **DevSecOps tools** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the intersection of **AI and cybersecurity** to build intelligent, adaptive security systems.
+Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the intersection of **AI and cybersecurity** to build intelligent, adaptive security systems.
 
 
 
@@ -17,9 +17,9 @@ Actively learning **DevSecOps tools** like **Azure**, **AWS**, **Terraform**, **
 SIEM:        Azure Sentinel, Wazuh, Splunk
 Vuln Mgmt:   Tenable, Nessus, CIS Benchmarks
 OSINT:       VirusTotal, Shodan, URLScan.io, Hybrid Analysis
-DevSecOps:   Learning Azure, Kubernetes, Docker, Jenkins
+DevSecOps:   Learning Azure, AWS, Terraform, Kubernetes, Docker, Jenkins
 AI + Sec:    Exploring AI for threat modeling, detection, and automation
-Scripting:   Python, PowerShell, Bash
+Scripting:   Python, PowerShell, Bash, SQL, KQL
 Networking:  TCP/IP, ACL, OSPF, BGP, IPsec
 OS:          Windows Server, Linux (Ubuntu, Kali)
 Directory:   Active Directory, LDAP
