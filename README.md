@@ -17,7 +17,7 @@ Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **T
 Networking:  TCP/IP, ACL, OSPF, BGP, IPsec
 OS:          Windows Server, Linux (Ubuntu, Kali)
 Directory:   Active Directory, LDAP
-Cloud:   Learning Azure, AWS, Terraform, Kubernetes, Docker, Jenkins
+Cloud:   Azure, AWS, Terraform, Kubernetes, Docker, Jenkins
 Scripting:   Python, PowerShell, Bash, SQL, KQL
 SIEM:        Azure Sentinel, Wazuh, Splunk
 Vuln Mgmt:   Tenable, Nessus, CIS Benchmarks
