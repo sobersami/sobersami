@@ -29,6 +29,9 @@ Compliance:  ISO 27001, NIST, STIG
 
 ## 🚀 Featured Projects
 
+- ☁️ **[AWS VPC Traffic Flow and Security Project](https://github.com/sobersami/AWS-VPC-Traffic-Flow-and-Security-Project)** 
+   Designed and deployed a secure AWS Virtual Private Cloud (VPC) infrastructure with custom subnets, internet gateway, route tables, security groups, and stateless network ACLs.
+
 - 🔐 **[File Integrity Monitor (Python)](https://github.com/sobersami/Python-FIM)**  
   Real-time file monitoring using SHA-512; alerts on create/modify/delete
 
