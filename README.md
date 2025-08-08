@@ -73,7 +73,7 @@ Compliance:  ISO 27001, NIST, STIG
 </a>
 
 
-## 🤝 Let's Connect!
+## 🤝🏼Let's Connect!
 
 <div align="center">
 
