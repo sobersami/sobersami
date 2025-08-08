@@ -29,6 +29,9 @@ Compliance:  ISO 27001, NIST, STIG
 
 ## 🚀 Featured Projects
 
+- 🤖 **[Amazon Lex with Lambda - ChatBot](https://github.com/sobersami/Amazon-Lex-with-Lambda---ChatBot)
+   A chatbot that helps customers check their account balance and make transfers.
+
 - ☁️ **[AWS VPC Traffic Flow and Security Project](https://github.com/sobersami/AWS-VPC-Traffic-Flow-and-Security-Project)** 
    Designed and deployed a secure AWS Virtual Private Cloud (VPC) infrastructure with custom subnets, internet gateway, route tables, security groups, and stateless network ACLs.
 
