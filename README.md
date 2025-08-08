@@ -44,7 +44,7 @@ Compliance:  ISO 27001, NIST, STIG
 - 🛡️ **[Vulnerability Management Lab with Tenable](https://github.com/sobersami/Vulnerability-Management-Implementation-using-Tenable)**  
   Simulated STIG failures, patched compliance issues, and documented scan reductions
 
-- 🧑‍💻 **[Active Directory Lab](https://github.com/sobersami/ActiveDirectoryLab)**  
+- 👨🏻‍💻 **[Active Directory Lab](https://github.com/sobersami/ActiveDirectoryLab)**  
   VirtualBox-based domain, AD DS setup, DHCP, DNS, file shares, and PowerShell automation
 
 ---
