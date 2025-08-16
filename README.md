@@ -11,7 +11,7 @@ Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **T
 
 ---
 
-## 🛠️ My Cloud & DevSecOps Stack
+## 🛠️ Tech Stack
 
 ```yaml
 Networking:  TCP/IP, ACL, OSPF, BGP, IPsec
@@ -28,6 +28,9 @@ Compliance:  ISO 27001, NIST, PCI DSS
 ---
 
 ## 🚀 Featured Projects
+
+-   **[CI/CD for Developement on AWS](https://github.com/sobersami/CI-CD-for-Development-on-AWS)**
+   Automatically develop, test, and deploy a Java web application from GitHub to EC2 utilizing a full CI/CD pipeline on AWS.
 
 - 🤖 **[Amazon Lex with Lambda - ChatBot](https://github.com/sobersami/Amazon-Lex-with-Lambda---ChatBot)**
    A chatbot that helps customers check their account balance and make transfers.
