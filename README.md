@@ -15,7 +15,10 @@ Besides this, I do design, philosophy, and music for fun. Thanks .
 
 ## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 
@@ -33,28 +36,19 @@ Compliance:  ISO 27001, NIST, PCI DSS
 
 ---
 
+
 ## 🚀 Featured Projects
 
--   **[CI/CD for Developement on AWS](https://github.com/sobersami/CI-CD-for-Development-on-AWS)**
-   Automatically develop, test, and deploy a Java web application from GitHub to EC2 utilizing a full CI/CD pipeline on AWS.
+| Project | Description |
+|---------|-------------|
+| ♾️  **[CI/CD for Development on AWS](https://github.com/sobersami/CI-CD-for-Development-on-AWS)** | Automatically develops, tests, and deploys a Java web app from GitHub to EC2 using a full AWS CI/CD pipeline. |
+| 🤖 **[Amazon Lex with Lambda - ChatBot](https://github.com/sobersami/Amazon-Lex-with-Lambda---ChatBot)** | Chatbot for checking account balances and making transfers via Amazon Lex & Lambda. |
+| ☁️ **[AWS VPC Traffic Flow and Security Project](https://github.com/sobersami/AWS-VPC-Traffic-Flow-and-Security-Project)** | Designed & deployed a secure AWS VPC with custom subnets, route tables, security groups, and NACLs. |
+| 🔐 **[File Integrity Monitor (Python)](https://github.com/sobersami/Python-FIM)** | Real-time file monitoring using SHA-512 with alerts on create/modify/delete. |
+| 📊 **[Azure Sentinel RDP Brute Force Visualization](https://github.com/sobersami/Azure-honeypot-lab)** | Built SIEM dashboards and attack maps using GeoIP enrichment + KQL. |
+| 🛡️ **[Vulnerability Management Lab with Tenable](https://github.com/sobersami/Vulnerability-Management-Implementation-using-Tenable)** | Simulated STIG failures, patched compliance issues, and documented vulnerability reduction. |
+| 👨🏻‍💻 **[Active Directory Lab](https://github.com/sobersami/ActiveDirectoryLab)** | VirtualBox-based AD DS setup with DHCP, DNS, file shares, and PowerShell automation. |
 
-- 🤖 **[Amazon Lex with Lambda - ChatBot](https://github.com/sobersami/Amazon-Lex-with-Lambda---ChatBot)**
-   A chatbot that helps customers check their account balance and make transfers.
-
-- ☁️ **[AWS VPC Traffic Flow and Security Project](https://github.com/sobersami/AWS-VPC-Traffic-Flow-and-Security-Project)**
-   Designed and deployed a secure AWS Virtual Private Cloud (VPC) infrastructure with custom subnets, internet gateway, route tables, security groups, and stateless network ACLs.
-
-- 🔐 **[File Integrity Monitor (Python)](https://github.com/sobersami/Python-FIM)**  
-  Real-time file monitoring using SHA-512; alerts on create/modify/delete
-
-- 📊 **[Azure Sentinel RDP Brute Force Visualization](https://github.com/sobersami/Azure-honeypot-lab)**  
-  Built SIEM dashboards and threat maps using GeoIP + KQL
-
-- 🛡️ **[Vulnerability Management Lab with Tenable](https://github.com/sobersami/Vulnerability-Management-Implementation-using-Tenable)**  
-  Simulated STIG failures, patched compliance issues, and documented scan reductions
-
-- 👨🏻‍💻 **[Active Directory Lab](https://github.com/sobersami/ActiveDirectoryLab)**  
-  VirtualBox-based domain, AD DS setup, DHCP, DNS, file shares, and PowerShell automation
 
 ---
 ## 📜 Certifications
