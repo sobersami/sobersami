@@ -41,6 +41,7 @@ Compliance:  ISO 27001, NIST, PCI DSS
 
 | Project | Description |
 |---------|-------------|
+| ☸️ **[Deploy Backend with Kubernetes ( EC2-ECR-EKS)](https://github.com/sobersami/Deploy-Backend-with-Kubernetes-EC2-ECR-EKS-/tree/master)** | This project demonstrates how to deploy the backend of an application using Kubernetes on AWS.|
 | ♾️  **[CI/CD for Development on AWS](https://github.com/sobersami/CI-CD-for-Development-on-AWS)** | Automatically develops, tests, and deploys a Java web app from GitHub to EC2 using a full AWS CI/CD pipeline. |
 | 🤖 **[Amazon Lex with Lambda - ChatBot](https://github.com/sobersami/Amazon-Lex-with-Lambda---ChatBot)** | Chatbot for checking account balances and making transfers via Amazon Lex & Lambda. |
 | ☁️ **[AWS VPC Traffic Flow and Security Project](https://github.com/sobersami/AWS-VPC-Traffic-Flow-and-Security-Project)** | Designed & deployed a secure AWS VPC with custom subnets, route tables, security groups, and NACLs. |
