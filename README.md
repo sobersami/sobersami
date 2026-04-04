@@ -3,7 +3,7 @@
 
 
 
-Currently studying **Engineering Management** to develop leadership, strategic thinking, and project oversight skills for high-impact roles in the industry.
+Studied **Engineering Management** to develop leadership, strategic thinking, and project oversight skills for high-impact roles in the industry.
 
 Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the intersection of **AI and cybersecurity** to build intelligent, adaptive security systems.
 
