@@ -5,7 +5,7 @@
 
 Studied **Engineering Management** to develop leadership, strategic thinking, and project oversight skills for high-impact roles in the industry.
 
-Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the  **AI ** to build intelligent, adaptive security systems.
+Actively learning **Cloud Engineering & DevSecOps** like **Azure**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, and **Jenkins**, while exploring the  AI to build intelligent, adaptive security systems.
 
 Besides this, I do design, philosophy, and music for fun. Thanks .
 
